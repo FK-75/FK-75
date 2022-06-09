@@ -2,6 +2,8 @@
 
 [![Image of https://github.com/FK-75/fk-views-counter](https://github.com/FK-75/fk-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/FK-75/fk-views-counter)
 
+### 🏆 Trophies
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=FK-75&theme=onedark&no-bg=false&count_private=true)](https://github.com/MattyTheHacker/FK-75)
 
 ## 🔥 Streak stats
