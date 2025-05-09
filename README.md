@@ -13,12 +13,14 @@ I'm a final-year Artificial Intelligence & Computer Science student at the Unive
 
 ## 📌 Notable Projects
 
-### 🧠 EmoSMS
+
+### 🧠 Emotion-Aware Messaging Interface (Signal Integration)
 **Real-time emotion detection in Signal messaging**
-- Dual-model pipeline (binary + multi-class emotion)
-- RoBERTa-based NLP with temporal context (last 5 messages)
-- Integrated into Signal UI with dynamic bubble colors
-- 91% binary / 88% multi-class F1, >80% user satisfaction
+- Developed a dual-model pipeline using RoBERTa for real-time emotion detection in messaging apps.
+- Used sequential architecture: binary classification (Emotion/No Emotion) → multi-class (Anger, Fear, Sadness, Disgust, Happiness).
+- Incorporated temporal context from the last 5 messages to improve emotion recognition.
+- Integrated into Signal messenger with dynamic UI (color-coded message bubbles based on emotion).
+- Achieved 91% accuracy (binary) and 88% (multi-class), with >80% user satisfaction in a usability study.
 
 ### 🌱 Palm Oil Detection via Satellite Imagery (ALTEN Ltd)
 **Scalable model to detect and forecast palm oil deforestation**
