@@ -51,4 +51,4 @@ I'm a final-year Artificial Intelligence & Computer Science student at the Unive
 
 - [LinkedIn](https://linkedin.com/in/faridmkhan)
 - [Medium](https://medium.com/@farid_khan75)
-- 📧 farid_khan75@hotmail.com
+- 📧 faridmkhan.ai@gmail.com
