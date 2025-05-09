@@ -11,6 +11,13 @@ I'm a final-year Artificial Intelligence & Computer Science student at the Unive
 - Offline, privacy-focused ML tooling (Transformer-based text correction)
 - Deployment of real-time deep learning models with Docker, ONNX, and Azure
 
+### 🌏 Upcoming Research — Shanghai Jiao Tong University (Summer 2025)
+
+- Participating in a cross-cultural emotion recognition project using EEG and eye-tracking data.
+- Applying machine learning (PyTorch/TensorFlow) to classify emotional states across diverse populations.
+- Focus on signal preprocessing, temporal modeling, and generalization of emotion recognition systems.
+- Deliverable includes a full research report and presentation.
+
 ## 📌 Notable Projects
 
 
