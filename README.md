@@ -20,17 +20,23 @@ I'm a final-year Artificial Intelligence & Computer Science student at the Unive
 - Integrated into Signal UI with dynamic bubble colors
 - 91% binary / 88% multi-class F1, >80% user satisfaction
 
-### 🌱 Palm Oil Detection via Satellite Imagery
+### 🌱 Palm Oil Detection via Satellite Imagery (ALTEN Ltd)
 **Scalable model to detect and forecast palm oil deforestation**
 - Used CNNs, Pix2Pix GANs, and K-Means on radar & satellite data
 - 98% classification accuracy, forecasted deforestation trends via ARIMA
 - Deployed on GCP, published article on Medium
 
-### ✍️ Offline Grammar Correction Tool
+### ✍️ Offline Grammar Correction Tool (ALTEN Ltd)
 **Privacy-first grammar tool using fine-tuned T5-base**
 - Local execution (no cloud), 5% better than Grammarly on in-house data
 - Fine-tuned with ERRANT tagging + WildNLP augmentation
 - Deployed in enterprise environment, full write-up on Medium
+
+### 🚗 Car Boot Object Detection (ALTEN Ltd)
+
+- Developed a YOLOv8-based model deployed on Android/iOS via ONNX to detect missing safety items in car boots.
+- Achieved 98% accuracy and 20ms inference time in real-time conditions.
+- Deployed using Azure DevOps in a CI/CD pipeline for continuous model improvement.
 
 ## 🛠️ Languages & Tools
 
